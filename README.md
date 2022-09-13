@@ -52,12 +52,9 @@ This allows users to be able to find and save books.
 I learned how GraphQL and linking with Apollo differ from using MongoDB and Express along with some pros and cons to each.
 
 - **What challenges did you encounter?**
-Deploying to Heroku.
+Deploying to Heroku. No live link avilable right now (WIP)
   
  
- ## Usage
- 
- Link to live application: https://glacial-fortress-25025.herokuapp.com/ (WIP)
 
 
 ## Credits  
