@@ -57,7 +57,7 @@ Deploying to Heroku.
  
  ## Usage
  
- Link to live application: https://glacial-fortress-25025.herokuapp.com/
+ Link to live application: https://glacial-fortress-25025.herokuapp.com/ (WIP)
 
 
 ## Credits  
